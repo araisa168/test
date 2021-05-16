@@ -27,5 +27,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStop() {
         super.onStop();
+        String s="1";
     }
 }
