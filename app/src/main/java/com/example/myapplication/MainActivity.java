@@ -23,4 +23,9 @@ public class MainActivity extends AppCompatActivity {
         super.onStart();
         String s="";
     }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+    }
 }
