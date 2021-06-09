@@ -28,5 +28,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onStop() {
         super.onStop();
         String s="1";
+        String t="1";
     }
 }
